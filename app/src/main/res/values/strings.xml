@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Jatin Sachdeva</string>
+
+    <string-array name="Messages">
+        <item>Hello</item>
+        <item>Hi</item>
+        <item>Whats up</item>
+        <item>All Good</item>
+        <item>What are you doing?</item>
+        <item>Bored at home!</item>
+        <item>Are you learning something new?</item>
+        <item>Yes, I am learning Machine learning</item>
+        <item>Ohh, That is so good</item>
+        <item>What about you?</item>
+        <item>I am learning Android</item>
+        <item>Good</item>
+        <item>Are you looking for any internship?</item>
+        <item>Yes, on Internshala</item>
+        <item>Very good</item>
+        <item>I am doing new task for a company</item>
+        <item>amazing</item>
+        <item>Are you playing any new games?</item>
+        <item>No only FIFA 20</item>
+        <item>Good</item>
+        <item>At least football is back</item>
+        <item>Yes Bundesliga</item>
+        <item>Other leagues are also going to start soon</item>
+        <item>just waiting for that bro</item>
+        <item>Yes cant live without Football</item>
+        <item>Indeed bro</item>
+        <item>Okay bro, will meet you after quarantine</item>
+        <item>Yes sure mate</item>
+        <item>Alright then, Goodbye!</item>
+        <item>Goodbye!</item>
+
+    </string-array>
+
+</resources>
+
+
